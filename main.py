@@ -69,7 +69,7 @@ if __name__ == '__main__':
     
     # Commands
         
-        if 'What is Dreamspace' in query:
+        if '' in query:
             speak('okay')
 
         elif 'Where is Dreamspace?' in query:
