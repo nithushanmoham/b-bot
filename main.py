@@ -69,11 +69,22 @@ if __name__ == '__main__':
     
     # Commands
         
-        if '' in query:
-            speak('okay')
+        if 'hi' in query:
+            speak('hi')
 
-        elif '' in query:
-            speak('okay')
+        elif 'how are you' in query:
+            speak('iam all ways happy')
+
+        elif 'good morning' in query:
+            speak('same to!')
+
+
+        elif 'good night' in query:
+            speak('same to you!')
+
+        elif 'good evining' in query:
+            speak('same to you!')
+
 
         elif 'hello' in query:
             speak('hello')
