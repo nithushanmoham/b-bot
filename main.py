@@ -78,13 +78,11 @@ if __name__ == '__main__':
         elif 'good morning' in query:
             speak('same to!')
 
-
         elif 'good night' in query:
             speak('same to you!')
 
         elif 'good evining' in query:
             speak('same to you!')
-
 
         elif 'hello' in query:
             speak('hello')
