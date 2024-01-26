@@ -15,7 +15,7 @@ voices = engine.getProperty('voices')
 engine.setProperty('voice', voices[0].id)
 
 def speak(audio): 
-    print('Dream Bot: ' + audio)
+    print('B Bot: ' + audio)
     engine.say(audio)
     engine.runAndWait()
 
