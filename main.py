@@ -72,7 +72,7 @@ if __name__ == '__main__':
         if '' in query:
             speak('okay')
 
-        elif 'Where is Dreamspace?' in query:
+        elif '' in query:
             speak('okay')
 
         elif 'hello' in query:
