@@ -39,7 +39,7 @@ def greetMe ():
 
 greetMe()
 
-speak('Hello Iam a Dream Bot ,How may I help you?')
+speak('Hello Iam a B Bot ,How may I help you?')
 
 def myCommand():
    
