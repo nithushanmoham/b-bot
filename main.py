@@ -22,7 +22,7 @@ def speak(audio):
 def greetMe ():
     currentH = int(datetime.datetime.now().hour)
     if currentH >= 10 and currentH < 3:
-        speak('Hi!,Good Morning! Iam a Dream Bot. The time is',currentH)
+        speak('Hi!,Good Morning! Iam a B Bot. The time is',currentH)
 
     elif currentH >= 3 and currentH < 15:
         speak('Hi!,Good Afternoon!')
